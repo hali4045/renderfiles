@@ -20,5 +20,5 @@
 | bigger chad | treeleaf | big | 5.5 | 12/21 | cherry lip, wkl | 21xx inspired tkl with southpaw nav |
 | doraemon | kim | 65 | 8 | 07/22 | | doraemon inspired 65 with koala sides and 910 blocker |
 | empyrean | tay | 65 | 6.9 | 06/22 | round lip | car inspired 65 with fucked up side profile among other things |
-| ennui | thatsadmummy | 60 | 6.5 | hhkb, round lip | exaggerated seam moment side hhkb | 
+| ennui | thatsadmummy | 60 | 6.5 | 07/23| hhkb, round lip | exaggerated seam moment side hhkb | 
 | queen | tovbeast | 60 | 5.5 | 01/22 | hhkb | sandwich 60 wedge with large top bezel |
