@@ -15,6 +15,13 @@
 | hyuga | ![image](https://github.com/hali4045/renderfiles/assets/66137164/89b0ed2c-90e1-4cc3-8c53-bfded9439fe5) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/4fe846ff-d15b-40ed-a98c-123e1d02b76a) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/db3fe73e-1436-46e2-8999-b223512d0226) |
 | ingat | ![image](https://github.com/hali4045/renderfiles/assets/66137164/065518ac-8540-4aa7-b528-55a9b11fd2c4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c6a334e1-9680-4961-9306-633c84309489) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/59a6c251-78da-4536-b46b-e50c107d9a63) |
 | iso | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d4a9ac8e-4365-498e-b41e-ca882bb41029) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/4ec17d35-73c5-4908-9095-3f67c45e47cb) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/3f8e49b7-2134-4b73-81ab-a4cdd97ac729) |
+| jabberwocky | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0c32a63f-5116-4f00-97c2-e6b993d0dd42) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/7ea22db2-e889-42b6-9192-437d2f24929f) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/96a04f9b-084f-4958-bce4-5af2b6a2a3b5) |
+| jeannine | ![image](https://github.com/hali4045/renderfiles/assets/66137164/7aab2d11-e539-4965-9333-eb9afea50e3d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/1492ccad-2315-4f0c-9ec8-d9f6dfd43d9e) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b199139e-6b37-4b76-9dde-6b21fbe43280) |
+| jisoo | ![image](https://github.com/hali4045/renderfiles/assets/66137164/de017d8f-bd58-48b6-9413-16284ef142b1) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/278e5140-d7bc-4ad5-b9f2-de27bb7c4505) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/cfddb8d4-7c60-41d8-a2d8-7938e905ee1f) |
+| kelly iu | ![image](https://github.com/hali4045/renderfiles/assets/66137164/89b7a7fb-c372-41c6-b504-4ed29158fb06) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/ae92a8a4-7d8e-4ff0-a623-6d340354a268) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b8b8e970-f723-411b-9845-2d8a0ef308fd) |
+| lancelot | ![image](https://github.com/hali4045/renderfiles/assets/66137164/8c384c78-568b-499b-ae73-39afef42f538) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5a95043d-23a1-4404-a916-b68dc50d0fd0) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c03a9781-cab6-4f62-8ae8-79af72a95197) |
+| leviathan | ![image](https://github.com/hali4045/renderfiles/assets/66137164/3588616b-65c8-48ca-b1f9-69ff88b111ed) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b851b2fc-17a4-4078-a6fb-15e4999cd69d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/bd974465-f668-4b75-9e43-3da7fda599c5) |
+
 | queen | ![image](https://github.com/hali4045/renderfiles/assets/66137164/91b45479-c314-48e0-b4d6-e8a4e65ffc36) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/20d3ba3a-46b8-4d68-9154-213d3da7daaa) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/85f7a495-f8b6-4344-a1f1-c9cf5b61ee6c) |
 
 
@@ -24,13 +31,19 @@
 | akio65 | akio | 65 | 7 | 04/22 | | 65 with exaggerated seam and big bongo cat weight |
 | anura | technology brother | 60 | 5.5 | 02/22 | cherry lip | backplate bakeneko with curvy sides |
 | bigger chad | treeleaf | big | 5.5 | 12/21 | cherry lip, wkl | 21xx inspired tkl with southpaw nav |
-| doraemon | kim | 65 | 8 | 07/22 | | doraemon inspired 65 with koala sides and 910 blocker |
+| doraemon | kim | 65 | 8 | 07/22 | badge | doraemon inspired 65 with koala sides and 910 blocker |
 | empyrean | tay | 65 | 6.9 | 06/22 | round lip | car inspired 65 with fucked up side profile among other things |
 | ennui | thatsadmummy | 60 | 6.5 | 07/23 | hhkb, round lip | exaggerated seam moment side hhkb | 
-| evalice | bowlanci | alice | 6.9 | 03/22 | round lip, wkl | evangelion inspired alice with through weight and toblerone |
+| evalice | bowlanci | alice | 6.9 | 03/22 | bent, round lip, wkl | evangelion inspired alice with through weight and toblerone |
 | fyts no. 1 | fyts | tkl | 6.9 | 04/22 | wkl | shelved tkl with two layer backplate |
 | geass | bowlanci | 60 | 6.9 | 03/22 | hhkb, round lip | code geass inspired 60 with through weight |
 | hyuga | idk | 65 | 5 | 03/22 | | friction fit 65 with backplate done for someone that i lost on discord lol |
 | ingat | nikostephen | 65 | 6.9 | 03/23 | cherry lip, wkl | bauer blocker 65 with external bar weight and toblerone |
-| iso | pat | big | 2.15 | 12/21 | | i deeply regret creating this |
+| iso | pat | big | 2.15 | 12/21 | wkl | i deeply regret creating this |
+| jabberwocky | nopunin10did | big | 5 | 10/22 | bent | large col stag numpad fc660 with side accents and internal weight to instill fear into the hearts of your enemies |
+| jeannine | sakula | tkl | 8 | 02/23 | wkl | shelved tkl with toblerone, through weight, and engravings that might get eaten by the fbx |
+| jisoo | fyts | tkl | 6.9 | 07/22 | wkl | kpop tkl with through weight |
+| kelly iu | kelly | 75 | 7.5 | 01/23 | badge, cherry lip | 75 with dual yugioh card holders, badge of whatever the fuck a "uaena" is, and the reason another tomo pcb was sold |
+| lancelot | malmal | tkl | 6.9 | 09/22 | wkl | fate inspired tkl with big fucking sword designed to spite the guy that charges 2k for this shit |
+| leviathan | mode and others | tkl | 6.9 | 04/23 | cherry lip, wkl | shelved tkl with kc no. 3 sides and big through weight |
 | queen | tovbeast | 60 | 5.5 | 01/22 | hhkb | sandwich 60 wedge with large top bezel |
