@@ -30,7 +30,12 @@
 | queen | ![image](https://github.com/hali4045/renderfiles/assets/66137164/91b45479-c314-48e0-b4d6-e8a4e65ffc36) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/20d3ba3a-46b8-4d68-9154-213d3da7daaa) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/85f7a495-f8b6-4344-a1f1-c9cf5b61ee6c) |
 | rev tkl | ![image](https://github.com/hali4045/renderfiles/assets/66137164/1f07e30a-68fa-48e5-a637-23f10b780120) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0a5ed8f8-3789-401f-8598-d71d75fca5e4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/16289675-6fd4-4d33-89fb-64b47dc22cbe) |
 | rose | ![image](https://github.com/hali4045/renderfiles/assets/66137164/729fc4b1-3cfe-4a8f-85d1-7ba4aacc5738) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/7a1779f6-5971-43a7-b629-d303f394c0b7) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d6d4f258-188c-477a-8bf5-0e3f4dec2111) |
-
+| saiko | ![image](https://github.com/hali4045/renderfiles/assets/66137164/a7f2b920-7992-4a36-8f07-01ff469e752d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/8743ab34-5ab1-4809-aa55-089124ae20cc) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b13bb81c-e5a1-4d29-a6eb-24748b9e536e) |
+| sana | ![image](https://github.com/hali4045/renderfiles/assets/66137164/69ae8f84-8029-4e90-bd38-57215f9f9ea7) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/9973108f-14c3-4eec-ab0a-37d6e98a0d99) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0658c1f3-177c-45f6-9535-4b362be71042) |
+| shwill | ![image](https://github.com/hali4045/renderfiles/assets/66137164/2e600fc9-c494-4084-a968-17b85a07d014) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/78ff82ba-1f73-47e5-8671-3209f6c0ad0d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/eda532df-0bb9-4fa3-8c30-71d8fb4109ab) |
+| skadineko | ![image](https://github.com/hali4045/renderfiles/assets/66137164/6dbee489-7b4d-4774-a3a9-e8510cf655ff) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/34293017-c9bd-455f-a5bc-f8ef7f5d54da) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5eda012f-0f2f-4ae8-84db-09ff0bad3d3f) |
+| skywalker | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c183f345-ff13-4ceb-ad85-b069f9be84e0) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/f1be3325-75af-4e41-b190-e0e1596a36ba) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d1c828a5-c694-46b0-b7f8-55f47e059a51) |
+| snop | ![image](https://github.com/hali4045/renderfiles/assets/66137164/e783ed90-5148-4620-afed-90c9bda773f4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/79edf36c-6841-492b-8112-3d0b2496ccf1) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/24686148-2f4f-472d-ae81-8594f5e0ffd2) |
 
 | board | done for | layout | typing angle | last touched | tags | blurb |
 | --- | --- | --- | ---| --- | --- | --- |
@@ -62,3 +67,9 @@
 | queen | tovbeast | 60 | 5.5 | 01/22 | hhkb | sandwich 60 wedge with large top bezel |
 | rev tkl | rev | tkl | 6.9 | 02/23 | badge, wkl | aggressive tkl with f13 badge and drafted front |
 | rose | darien | tkl | 8 | 06/22 | badge, wkl | [Legalize Nuclear Bombs ☢️ Swag Messiah 💦 Bees Make Honey 🐝](https://www.youtube.com/watch?v=nZQXV488WJ0) |
+| saiko | byrin | tkl | 6.9 | 10/22 | wkl | v2 ce assembly tkl with weeb shit |
+| sana | | tkl | 6.9 | 01/23 | wkl | kpop tkl with through weight and toblerone that maybe someone should run |
+| shwill | tate then shwilliam | 60 | 6.5 | 11/22 | wkl | cl side 60 with faux dual through weight |
+| skadineko | aunk | 60 | 6.9 | 08/22 | | fate inspired shelved friction fit 60 with backplate |
+| skywalker | fronk | 65 | 6.9 | 06/22 | cherry lip | star wars inspired friction fit 60 with backplate |
+| snop | snop | 60 | 6 | 05/22 | | koala side friction fit 60 with backplate |
