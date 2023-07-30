@@ -49,7 +49,7 @@
 | 917 | treeleaf | frltkl | 9.17 | 11/22 | wkl | car inspired frltkl with large bezels |
 | akio65 | akio | 65 | 7 | 04/22 | | 65 with exaggerated seam and big bongo cat weight |
 | anura | technology brother | 60 | 5.5 | 02/22 | cherry lip | backplate bakeneko with curvy sides |
-| bigger chad | treeleaf | big | 5.5 | 12/21 | cherry lip, wkl | 21xx inspired tkl with southpaw nav |
+| bigger chad | treeleaf | big | 5.5 | 12/21 | cherry lip, wkl | g80-2000 inspired tkl with southpaw nav |
 | doraemon | kim | 65 | 8 | 07/22 | badge | doraemon inspired 65 with koala sides and 910 blocker |
 | empyrean | tay | 65 | 6.9 | 06/22 | round lip | car inspired 65 with fucked up side profile among other things |
 | ennui | thatsadmummy | 60 | 6.5 | 07/23 | hhkb, round lip | exaggerated seam moment side hhkb | 
