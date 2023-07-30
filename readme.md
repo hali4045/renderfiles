@@ -36,6 +36,13 @@
 | skadineko | ![image](https://github.com/hali4045/renderfiles/assets/66137164/6dbee489-7b4d-4774-a3a9-e8510cf655ff) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/34293017-c9bd-455f-a5bc-f8ef7f5d54da) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5eda012f-0f2f-4ae8-84db-09ff0bad3d3f) |
 | skywalker | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c183f345-ff13-4ceb-ad85-b069f9be84e0) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/f1be3325-75af-4e41-b190-e0e1596a36ba) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d1c828a5-c694-46b0-b7f8-55f47e059a51) |
 | snop | ![image](https://github.com/hali4045/renderfiles/assets/66137164/e783ed90-5148-4620-afed-90c9bda773f4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/79edf36c-6841-492b-8112-3d0b2496ccf1) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/24686148-2f4f-472d-ae81-8594f5e0ffd2) |
+| spiral | ![image](https://github.com/hali4045/renderfiles/assets/66137164/852aa44d-4601-40ed-b016-ddd4ff46a98c) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/8590abfc-073c-4002-be8f-9fbd25259110) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c587b424-fb64-492c-aa95-ae7bdf709989) |
+| tenshi | ![image](https://github.com/hali4045/renderfiles/assets/66137164/dad1279f-ff3f-4707-8d46-6cf339426c36) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d029219a-dba0-4731-8ccf-86c13a027fcc) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5588900d-abb4-4141-9956-adf34731c3ad) |
+| totoro | ![image](https://github.com/hali4045/renderfiles/assets/66137164/6e4157b6-b9ef-4930-ac7b-59e7c0fb5f16) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c78084c4-9fb4-4bf8-93b3-82dd4cab1865) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/a196f997-9545-408c-8bde-bd8e021508f7) |
+| tsukino | ![image](https://github.com/hali4045/renderfiles/assets/66137164/22895836-6dd0-490f-a67c-ef965bbc4267) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b53847b2-3733-42d6-8497-56a8e6d175d7) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/90f9fa2f-a5f1-4130-97fd-d525eb29f223) |
+| yeri | ![image](https://github.com/hali4045/renderfiles/assets/66137164/226211f1-cb28-401d-8b9d-a4946cbc6428) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/9649f930-8c75-4fbc-9db1-c07ccb15f275) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0e758531-10c2-4252-b985-4deabf3105eb) |
+| yorha type 80 | ![image](https://github.com/hali4045/renderfiles/assets/66137164/92928d7a-8f84-49a8-a97e-7d0e013d51de) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/88abbe36-fef0-4b7d-bf4c-61fecaf3b8b3) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/ecf50600-e755-47f9-904d-e1e140adea22) |
+| yuzu chorus | ![image](https://github.com/hali4045/renderfiles/assets/66137164/08a2f5ec-b236-493d-ad5c-cccd3e3d2e0c) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/9e34ea42-9586-41d0-923a-15d20856225e) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/57968b3e-1272-4507-8e9e-d1b91ebe612e) |
 
 | board | done for | layout | typing angle | last touched | tags | blurb |
 | --- | --- | --- | ---| --- | --- | --- |
@@ -73,3 +80,10 @@
 | skadineko | aunk | 60 | 6.9 | 08/22 | | fate inspired shelved friction fit 60 with backplate |
 | skywalker | fronk | 65 | 6.9 | 06/22 | cherry lip | star wars inspired friction fit 60 with backplate |
 | snop | snop | 60 | 6 | 05/22 | | koala side friction fit 60 with backplate |
+| spiral | olaugh | tkl | 6.9 | 10/22 | badge, wkl | gurren lagann inspired tkl with a variety of weights and inserts |
+| tenshi | sviz | 60 | 6 | 11/21 | cherry lip | wow this board is shit lol |
+| totoro | lance | tkl | 6.66 | 06/22 | wkl | totoro inspired tkl with toblerone and large two piece through weight |
+| tsukino | hipster | 60 | 6 | 05/22 | round lip | sailor moon inspired friction fit 60 with backplate |
+| yeri | darn | tkl | 6 | 10/22 | wkl | kpop tkl |
+| yourha type 80 | tofu | tkl | 6.9 | 11/22 | badge, wkl | re zero inspired tkl with a fuck ton of engravings that also might not work |
+| yuzu chorus | yue | split ergo | 5 (tent) | 03/23 | bent | gasket ergo with wrist rests and external weights |
