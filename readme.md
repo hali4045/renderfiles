@@ -21,8 +21,15 @@
 | kelly iu | ![image](https://github.com/hali4045/renderfiles/assets/66137164/89b7a7fb-c372-41c6-b504-4ed29158fb06) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/ae92a8a4-7d8e-4ff0-a623-6d340354a268) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b8b8e970-f723-411b-9845-2d8a0ef308fd) |
 | lancelot | ![image](https://github.com/hali4045/renderfiles/assets/66137164/8c384c78-568b-499b-ae73-39afef42f538) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5a95043d-23a1-4404-a916-b68dc50d0fd0) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c03a9781-cab6-4f62-8ae8-79af72a95197) |
 | leviathan | ![image](https://github.com/hali4045/renderfiles/assets/66137164/3588616b-65c8-48ca-b1f9-69ff88b111ed) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/b851b2fc-17a4-4078-a6fb-15e4999cd69d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/bd974465-f668-4b75-9e43-3da7fda599c5) |
-
+| llama | ![image](https://github.com/hali4045/renderfiles/assets/66137164/f5004d66-8e8c-4d15-a1f7-ef5bda79bf75) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0a7fd296-78a7-42ae-b187-3ae150dd6881) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/c414af3e-60b8-4848-aa45-c832d7b65775) |
+| meier | ![image](https://github.com/hali4045/renderfiles/assets/66137164/fc662c34-54e4-4059-bd9e-d89ad2d7a133) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/75c79c16-2dfe-4377-8d09-e20a48eeca38) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/7d8ae169-dcec-4741-a310-5b24449bc454) |
+| millea tkl | ![image](https://github.com/hali4045/renderfiles/assets/66137164/a41be693-bb27-4e43-a9ff-b474849df424) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/056e74b7-4c68-4389-a8f3-4b198d1b12a6) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/8f4eb0e6-4e20-431f-973c-88b2e5092cc3) |
+| moondrop | ![image](https://github.com/hali4045/renderfiles/assets/66137164/06a52eef-b8c4-40a5-a27c-90406e0b1b04) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/f7043237-5cf2-4f1c-8dd4-ac3785dfa0a8) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/e32a94e8-7b00-407e-ba36-4e7cc2e79a62) |
+| nigoki | ![image](https://github.com/hali4045/renderfiles/assets/66137164/930d42c5-27de-4700-878f-a4b63ea525e7) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/62f4254d-40d0-47f1-82f6-4a1f6f334ee4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/5d338705-2963-43a6-ad51-483e4461c547) |
+| qneko | ![image](https://github.com/hali4045/renderfiles/assets/66137164/f38ba348-751d-4fea-bdcc-068f57abbb5d) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/2797c96e-775a-4d8a-89d2-958f8286b0b6) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/cd067edf-f9a3-4b1e-9ccc-6ef9e218021d) |
 | queen | ![image](https://github.com/hali4045/renderfiles/assets/66137164/91b45479-c314-48e0-b4d6-e8a4e65ffc36) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/20d3ba3a-46b8-4d68-9154-213d3da7daaa) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/85f7a495-f8b6-4344-a1f1-c9cf5b61ee6c) |
+| rev tkl | ![image](https://github.com/hali4045/renderfiles/assets/66137164/1f07e30a-68fa-48e5-a637-23f10b780120) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/0a5ed8f8-3789-401f-8598-d71d75fca5e4) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/16289675-6fd4-4d33-89fb-64b47dc22cbe) |
+| rose | ![image](https://github.com/hali4045/renderfiles/assets/66137164/729fc4b1-3cfe-4a8f-85d1-7ba4aacc5738) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/7a1779f6-5971-43a7-b629-d303f394c0b7) | ![image](https://github.com/hali4045/renderfiles/assets/66137164/d6d4f258-188c-477a-8bf5-0e3f4dec2111) |
 
 
 | board | done for | layout | typing angle | last touched | tags | blurb |
@@ -45,5 +52,13 @@
 | jisoo | fyts | tkl | 6.9 | 07/22 | wkl | kpop tkl with through weight |
 | kelly iu | kelly | 75 | 7.5 | 01/23 | badge, cherry lip | 75 with dual yugioh card holders, badge of whatever the fuck a "uaena" is, and the reason another tomo pcb was sold |
 | lancelot | malmal | tkl | 6.9 | 09/22 | wkl | fate inspired tkl with big fucking sword designed to spite the guy that charges 2k for this shit |
-| leviathan | mode and others | tkl | 6.9 | 04/23 | cherry lip, wkl | shelved tkl with kc no. 3 sides and big through weight |
+| leviathan | mode and others | tkl | 6.9 | 04/23 | cherry lip, wkl | shelved tkl with kc no. 3 sides and big through weight but not the laminar board |
+| llama | keebnewb | 40 | 6.9 | 11/21 | badge | drama works dmca works rama wanks baseball bat nfc card non fulfilling ass |
+| meier | josh | 60 | 6.5 | 01/22 | cherry lip | friction fit 60 with through weight and backplate |
+| millea tkl | millea rose | tkl | 6.9 | 09/22 | | vtuber tkl with re sides and through weight |
+| moondrop | moonz | tkl | 6.9 | 07/22 | badge | sandwich tkl with top accent, backplate, and two piece wrist rest |
+| nigoki | unusual_ | 60 | 6 | 02/22 | cherry lip | evangelion inspired re side 60 with badass seele weight |
+| qneko | q. | 60 | 6.5 | 03/22 | cherry lip | 60 with backplate and huge back shelf |
 | queen | tovbeast | 60 | 5.5 | 01/22 | hhkb | sandwich 60 wedge with large top bezel |
+| rev tkl | rev | tkl | 6.9 | 02/23 | badge, wkl | aggressive tkl with f13 badge and drafted front |
+| rose | darien | tkl | 8 | 06/22 | badge, wkl | [Legalize Nuclear Bombs ☢️ Swag Messiah 💦 Bees Make Honey 🐝](https://www.youtube.com/watch?v=nZQXV488WJ0) |
